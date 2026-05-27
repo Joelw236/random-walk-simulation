@@ -1,0 +1,6 @@
+p,empirical_step_mean,theoretical_step_mean,empirical_terminal_mean,theoretical_terminal_mean
+0.4,0.200134,0.2,200.134,200
+0.45,0.100224,0.1,100.224,100
+0.5,-0.001119,0,-1.119,0
+0.55,-0.099069,-0.1,-99.069,-100
+0.6,-0.199663,-0.2,-199.663,-200
